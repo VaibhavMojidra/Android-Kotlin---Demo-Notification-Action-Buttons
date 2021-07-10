@@ -1,0 +1,2 @@
+rootProject.name = "Notification Action Buttons Kotlin"
+include ':app'
